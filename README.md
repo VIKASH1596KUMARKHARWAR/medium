@@ -30,5 +30,6 @@ A modern, scalable blogging platform inspired by Medium, built using cutting-edg
 
 ---
 
-## 🏗️ Project Structure
+
+
 
